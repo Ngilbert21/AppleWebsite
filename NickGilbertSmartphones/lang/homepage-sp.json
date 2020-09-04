@@ -1,0 +1,20 @@
+{
+  "nav": {
+    "home": "Casa",
+    "orderPizza": "Comprar iPhones",
+    "userInfo": "informacion del usuario",
+    "login": "iniciar sesión",
+    "becomeMember": "hacerse miembro",
+    "basicInfo": "información básica",
+    "deliveryInfo": "información de entrega"
+  },
+  "para": {
+    "first": "Esta página es para la tienda BSU Apple iPhone, puedes pedir varios Iphones diferentes y hacer que te los envíen.",
+    "second": "Además, esta página es la muestra para presentación.",
+    "contact": "contacto"
+  },
+  "headings": {
+    "deliveryHead": "información de entrega"
+  }
+  
+}

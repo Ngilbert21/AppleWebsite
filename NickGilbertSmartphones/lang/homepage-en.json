@@ -1,0 +1,19 @@
+{
+  "nav": {
+    "home": "Home",
+    "orderPizza": "Shop Apple iPhones",
+    "userInfo": "User Information",
+    "login": "Login",
+    "becomeMember": "Become a member",
+    "basicInfo": "Basic Information",
+    "deliveryInfo": "Delivery Information"
+  },
+  "para": {
+    "first": "This page is for the BSU Apple iPhone store, you can order various different iPhones and have them delivered to you.",
+    "second": "Also, this page is the sample for presentation.",
+    "contact": "Contact"
+  },
+  "headings": {
+    "deliveryHead": "Delivery Information"
+  }
+}

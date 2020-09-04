@@ -1,0 +1,19 @@
+﻿{
+  "nav": {
+    "home": "主页",
+    "orderPizza": "购买iPhone",
+    "userInfo": "用户信息",
+    "login": "登录",
+    "becomeMember": "成为会员",
+    "basicInfo": "基本信息",
+    "deliveryInfo": "配送信息"
+  },
+  "para": {
+    "first": "此页面适用于BSU Apple iPhone商店, 您可以订购各种不同的iPhone并将它们发送给您。",
+    "second": "此外，此页面是演示样本。",
+    "contact": "联系"
+  },
+  "headings": {
+    "deliveryHead": "配送信息"
+  }
+}
